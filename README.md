@@ -4,7 +4,6 @@
 
 Hi, I'm Strix, a game developer using Unity engine in Korea
 
-- 🔭 I’m currently working on my project [ConvoyChat](https://github.com/anuraghazra/convoychat)
 - 🌱 I’m currently learning GraphQL & Typescript
 - 👯 I’m looking to collaborator
 
