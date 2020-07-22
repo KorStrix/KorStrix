@@ -4,7 +4,7 @@
 
 Hi, I'm Strix, a game developer using Unity engine in Korea
 
-- 🌱 I’m currently learning GraphQL & Typescript
+- 🌱 I’m currently learning GameServer & Shader
 - 👯 I’m looking to collaborator
 
 <!--
