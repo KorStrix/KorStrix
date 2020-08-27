@@ -19,12 +19,10 @@ Hi, I'm Strix, a game developer using Unity engine in Korea
   <img alt="C%2B%2B" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
 </p>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0a2b0424-d653-44b8-9204-6ef6cb6b6ca3" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
-
 #### Tools
 <img alt="Unity" src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
 
-[https://images.youracclaim.com/size/110x110/images/e8ff9de9-eb33-4769-88f8-0666530e3dcd/ProProg_Certification-Badges-out-600x600-10.png](https://www.youracclaim.com/badges/0a2b0424-d653-44b8-9204-6ef6cb6b6ca3/public_url)
+[https://github.com/KorStrix/KorStrix/blob/master/unity-certified-professional-programmer.png?raw=true](https://www.youracclaim.com/badges/0a2b0424-d653-44b8-9204-6ef6cb6b6ca3/public_url)
 
 ## &#x1f4c8; GitHub Stats
 
