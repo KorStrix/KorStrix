@@ -22,7 +22,7 @@ Hi, I'm Strix, a game developer using Unity engine in Korea
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/KorStrix/KorStrix">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KorStrix&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=90,2b5876,4e4376" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KorStrix&hide=java,html&theme=radical&line_height=27" alt="Anurag's github stats" />
 </a>
 <a href="https://github.com/KorStrix/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KorStrix&show_icons=true&theme=radical&line_height=27" alt="Anurag's github stats" />
