@@ -1,4 +1,4 @@
-## Hi there, I'm Strix 👋
+## 👋 Hi there
 
 <br />
 
