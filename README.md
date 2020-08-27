@@ -13,8 +13,6 @@ Hi, I'm Strix, a game developer using Unity engine in Korea
 
 ## 🛠 Technologies & Tools
 
-<br />
-
 #### SKill
 <p>
   <img alt="C%23" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-Sharp&logoColor=white"/>
@@ -32,8 +30,5 @@ Hi, I'm Strix, a game developer using Unity engine in Korea
 
 
 ## Special Thanks
-
-<br />
-
-고수처럼
+#### 고수처럼
 https://github.com/rrrmaster/
