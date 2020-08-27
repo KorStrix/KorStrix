@@ -39,7 +39,7 @@ Hi, I'm Strix, a game developer using Unity engine in Korea
 
 ## Special Thanks
 #### 고수처럼
-고수처럼님의 리드미 포멧을 참고했습니다. 저의 오픈소스 기여자이기도 합니다.
+고수처럼님의 [리드미](https://github.com/rrrmaster/) 포멧을 참고했습니다. 저의 오픈소스 기여자이기도 합니다.
 
 
-https://github.com/rrrmaster/
+
