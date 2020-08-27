@@ -15,13 +15,13 @@ Hi, I'm Strix, a game developer using Unity engine in Korea
 
 #### Programming Language
 <p>
-  <img alt="C%23" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-Sharp&logoColor=white"/>
-  <img alt="C%2B%2B" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+  <img alt="C%23" src="https://img.shields.io/badge/-C%23-239120?style=float&logo=c-Sharp&logoColor=white"/>
+  <img alt="C%2B%2B" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=float&logo=c%2B%2B&logoColor=white"/>
 </p>
 
 #### Tools
 <p>
-  <img alt="Unity" src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
+  <img alt="Unity" src="https://img.shields.io/badge/-Unity-000000?style=float-square&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Jenkins-red?style=float&logo=jenkins&logoColor=white"/>
 </p>
 
