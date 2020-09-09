@@ -27,13 +27,14 @@ Hi, I'm Strix, a game developer using Unity engine in Korea
 
 
 [<img src="https://github.com/KorStrix/KorStrix/blob/master/unity-certified-professional-programmer.png?raw=true" width="100">](https://www.youracclaim.com/badges/0a2b0424-d653-44b8-9204-6ef6cb6b6ca3/public_url)
+[Certificated Link](https://www.youracclaim.com/badges/0a2b0424-d653-44b8-9204-6ef6cb6b6ca3/public_url)
 
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/KorStrix/KorStrix">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KorStrix&hide=java,html,ShaderLab&theme=radical&line_height=27" alt="Anurag's github stats" />
 </a>
-<a href="https://github.com/KorStrix/github-readme-stats">
+<a href="https://github.com/KorStrix/KorStrix">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KorStrix&show_icons=true&theme=radical&line_height=27" alt="Anurag's github stats" />
 </a>
 
