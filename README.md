@@ -16,7 +16,7 @@ Hi, I'm Strix, a game developer using Unity engine in Korea
 #### Language
 <p>
   <img src="https://img.shields.io/badge/-C%23-239120?style=float&logo=c-Sharp&logoColor=white"/>
-  ![ts](https://flat.badgen.net/badge/-/TypeScript?icon=typescript&label&labelColor=blue&color=555555)
+  <img src="https://flat.badgen.net/badge/-/TypeScript?icon=typescript&label&labelColor=blue&color=555555"/>
 </p>
 
 #### Tools
